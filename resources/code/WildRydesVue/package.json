@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "@aws-amplify/cli": "^4.47.1",
-    "aws-amplify": "^1.1.40",
+    "aws-amplify": "^3.0.1",
     "aws-amplify-vue": "^0.2.17",
     "axios": ">=0.21.1",
     "core-js": "^2.6.5",
